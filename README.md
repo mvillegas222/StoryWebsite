@@ -1,7 +1,7 @@
 # StoryWebsite
 <html>
   <body>
-    background-image: url( "https://banner2.kisspng.com/20180803/xp/kisspng-los-angeles-lakers-nba-clip-art-basketball-logo-los-angeles-lakers-the-bench-mob-nba-5b643fce77a3d8.8401840115332965904901.jpg" );
+    background-image: url("https://banner2.kisspng.com/20180803/xp/kisspng-los-angeles-lakers-nba-clip-art-basketball-logo-los-angeles-lakers-the-bench-mob-nba-5b643fce77a3d8.8401840115332965904901.jpg");
   <h1>This is my Website</h1>
   <h2> The <strong>off season</strong>begins</h2>
   <h3><font color="yellow">The Lakers!</font></h3>
