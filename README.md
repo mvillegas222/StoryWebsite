@@ -2,7 +2,7 @@
 <html>
   <body>
    { 
-    background-image: url("https://banner2.kisspng.com/20180803/xp/kisspng-los-angeles-lakers-nba-clip-art-basketball-logo-los-angeles-lakers-the-bench-mob-nba-5b643fce77a3d8.8401840115332965904901.jpg");
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWcLDlfcAoY9BGi1pQ9yHQDjY2pFi0V0gBpmVo7cRR5rmQ1oZvhQ");
     }
   <h1>This is my Website</h1>
   <h2> The <strong>off season</strong>begins</h2>
